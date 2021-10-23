@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Data Structures (Python) and ECMA Script 6
+- 🌱 I’m currently learning Data Structures (Python) and React+Node
 - 👯 I’m looking to collaborate on simple OOP projects for learning
 - 🤔 I’m looking for help with OOP Python
 - 💬 Ask me about ...
