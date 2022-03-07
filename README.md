@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a simple react face-recognition-app
-- 🌱 I’m currently learning Data Structures (Python) and React+Node
+- 🌱 I’m currently learning Wordpress and React+Node
 - 👯 I’m looking to collaborate on simple OOP projects for learning
 - 🤔 I’m looking for help with detoxing my addiction of programming
 - 💬 Ask me about ...
