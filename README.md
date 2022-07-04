@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a simple react face-recognition-app
-- 🌱 I’m currently mastering PHP and JS
+- 🌱 I’m currently mastering PHP and Laravel
 - 👯 I’m looking to contribute open source JS projects
 - 🤔 I’m looking for help with detoxing my addiction of programming
 - 💬 Ask me about ...
