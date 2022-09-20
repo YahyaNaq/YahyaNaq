@@ -5,8 +5,6 @@
 - 🌱 I’m currently mastering React (hooks)
 - 👯 I’m looking to contribute open source JS projects
 - 🤔 I’m looking for help with detoxing my addiction of programming
-- 💬 Ask me about ...
 - 📫 How to reach me: drop a mail at yahya.naqvi123@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact about me: I am a wannabe polyglot 😄
 
